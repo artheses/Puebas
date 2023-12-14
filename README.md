@@ -1,9 +1,1 @@
-# Taller de pruebas
-
-
-- Primer titulo del taller
-
-
-- segunda linea desde branch
-
-tercera linea
+Mira topperz como aparece el archivo en git krakent
